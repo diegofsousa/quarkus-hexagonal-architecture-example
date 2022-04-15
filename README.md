@@ -6,6 +6,8 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 ## Running the application in dev mode
 
+> Implementation based on the course "Arquitetura Hexagonal na prática" by Nataniel Paiva.
+
 You can run your application in dev mode that enables live coding using:
 ```shell script
 ./mvnw compile quarkus:dev
